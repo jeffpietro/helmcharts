@@ -9,6 +9,6 @@ entries:
     - project-unity
     name: project-unity
     urls:
-    - https://github.com/jeffpietro/project-unity-0.0.1.tgz
+    - https://github.com/jeffpietro/helmcharts/project-unity-0.0.1.tgz
     version: 0.0.1
 generated: "2021-11-01T09:16:38.135286982-07:00"
